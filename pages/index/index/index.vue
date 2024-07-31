@@ -25,10 +25,9 @@
     <div
       class="p-4 flex flex-col items-center w-full h-full bg-slate-100"
     >
-      🥳 만 나이: {{ userAgeInfo.age }} 세 <br />
+      🥳만 나이: {{ userAgeInfo.age }} 세 <br />
       🥳 살아온 주: {{ userAgeInfo.weeks }} 주 <br />
       🥳 살아온 일: {{ userAgeInfo.days }} 일 <br />
-      🥳 생일까지 {{ userAgeInfo.daysUntilBirthday }} 일 남았습니다!👏👏
     </div>
   </div>
 </template>
